@@ -4,7 +4,7 @@ There are two ways to do queries on the data.<br>
 First, you can run main.py which uses a graph class to query the scraped data. <br>
 Second, you are provided a flask backend to serve API endpoints which allow you to query or modify the data.<br>
 
-## Query data
+## Query
 See options for querying data using graph structure.
 ```
 python3 main.py -h 
